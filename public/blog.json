@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/zQVBLJm/download-1-1.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "john doe",
+        "author_img": "https://i.ibb.co/p3tTj57/world-poetry-day-event-print-template-23-2148891328.jpg",
+        "posted_date": "2023-09-01",
+        "reading_time": 10,
+        "hastag":["Development","Resources"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/hB3K0Hh/download-2.jpg",
+        "title": "The data science for beginners",
+        "author": "jane smith",
+        "author_img": "https://i.ibb.co/2ncpxFd/woman-library-144627-30892.jpg",
+        "posted_date": "2023-09-02",
+        "reading_time": 15,
+        "hastag":["Development","Resources"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/FsFXXpx/download.jpg",
+        "title": "How to get your first job as a self-taught programmer",
+        "author": "mary johnson",
+        "author_img": "https://i.ibb.co/pwBfHw4/how-start-writing-book-poster-template-23-2148646046.jpg",
+        "posted_date": "2023-09-03",
+        "reading_time": 20,
+        "hastag":["Development","Resources"]
+    }
+   ]
+ 
